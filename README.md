@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uchenna-Johnpaul
-- 👀 I’m interested in data engineering and analysis
+- 👀 I’m interested in data science and analysis
 - 🌱 I’m currently learning python and R programming languages 
 
 
